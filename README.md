@@ -1,7 +1,7 @@
 # EY Battle of BrainPower BI Challenge 2024 - Marketing Campaign Analysis
 
 ## 🏆 Certificate of Completion
-![Certificate](path_to_certificate_image.png)
+![Certificate](https://github.com/Aakashdeep-Srivastava/EY-Social-Media-Analysis/blob/main/Images/sad%20(1920%20x%202160%20px)%20(1).png)
 
 ## 📋 Problem Statement
 An analytics consultancy firm needed to optimize social media campaigns across multiple companies using Power BI dashboards to enhance conversion rates, minimize acquisition costs, and maximize ROI.
@@ -16,43 +16,43 @@ An analytics consultancy firm needed to optimize social media campaigns across m
 ## 📊 Dashboard Solutions
 
 ### 1. Campaign Duration vs Conversion Rate
-![Q1 Dashboard](path_to_q1_dashboard.png)
+![Q1 Dashboard](https://github.com/Aakashdeep-Srivastava/EY-Social-Media-Analysis/blob/main/Images/1.png)
 *Analysis of correlation between campaign duration and conversion rates across different segments*
 
 ### 2. Temporal Campaign Performance Trends
-![Q2 Dashboard](path_to_q2_dashboard.png)
+![Q2 Dashboard](https://github.com/Aakashdeep-Srivastava/EY-Social-Media-Analysis/blob/main/Images/2.png)
 *Identification of performance trends based on campaign dates*
 
 ### 3. Channel ROI Analysis
-![Q3 Dashboard](path_to_q3_dashboard.png)
+![Q3 Dashboard](https://github.com/Aakashdeep-Srivastava/EY-Social-Media-Analysis/blob/main/Images/3.png)
 *Evaluation of marketing channels' ROI and engagement-conversion relationship*
 
 ### 4. Customer Segment Acquisition Costs
-![Q4 Dashboard](path_to_q4_dashboard.png)
+![Q4 Dashboard](https://github.com/Aakashdeep-Srivastava/EY-Social-Media-Analysis/blob/main/Images/4.png)
 *Breakdown of acquisition costs across customer segments*
 
 ### 5. Language and Location Impact
-![Q5 Dashboard](path_to_q5_dashboard.png)
+![Q5 Dashboard](https://github.com/Aakashdeep-Srivastava/EY-Social-Media-Analysis/blob/main/Images/5.png)
 *Analysis of conversion rates across different languages and locations*
 
 ### 6. High-Conversion Campaign Combinations
-![Q6 Dashboard](path_to_q6_dashboard.png)
+![Q6 Dashboard](https://github.com/Aakashdeep-Srivastava/EY-Social-Media-Analysis/blob/main/Images/6.png)
 *Identification of successful campaign type, channel, and audience combinations*
 
 ### 7. Engagement Score vs Conversion Rate
-![Q7 Dashboard](path_to_q7_dashboard.png)
+![Q7 Dashboard](https://github.com/Aakashdeep-Srivastava/EY-Social-Media-Analysis/blob/main/Images/7.png)
 *Correlation analysis between engagement scores and conversion rates*
 
 ### 8. ROI Deviation Analysis
-![Q8 Dashboard](path_to_q8_dashboard.png)
+![Q8 Dashboard](https://github.com/Aakashdeep-Srivastava/EY-Social-Media-Analysis/blob/main/Images/8.png)
 *Investigation of campaigns deviating from expected ROI*
 
 ### 9. Click-Through Rate Analysis
-![Q9 Dashboard](path_to_q9_dashboard.png)
+![Q9 Dashboard](https://github.com/Aakashdeep-Srivastava/EY-Social-Media-Analysis/blob/main/Images/9.png)
 *CTR variations across marketing channels and customer segments*
 
 ### 10. Predictive Performance Analysis
-![Q10 Dashboard](path_to_q10_dashboard.png)
+![Q10 Dashboard](https://github.com/Aakashdeep-Srivastava/EY-Social-Media-Analysis/blob/main/Images/10.png)
 *Predictive analysis of future campaign performance based on historical data*
 
 ## 🛠️ Tools Used
