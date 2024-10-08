@@ -1,8 +1,5 @@
 # EY Battle of BrainPower BI Challenge 2024 - Marketing Campaign Analysis
 
-## 🏆 Certificate of Completion
-![Certificate](https://github.com/Aakashdeep-Srivastava/EY-Social-Media-Analysis/blob/main/Images/sad%20(1920%20x%202160%20px)%20(1).png)
-
 ## 📋 Problem Statement
 An analytics consultancy firm needed to optimize social media campaigns across multiple companies using Power BI dashboards to enhance conversion rates, minimize acquisition costs, and maximize ROI.
 
@@ -59,6 +56,9 @@ An analytics consultancy firm needed to optimize social media campaigns across m
 - Power BI
 - DAX
 - Power Query
+
+## 🏆 Certificate of Completion
+![Certificate](https://github.com/Aakashdeep-Srivastava/EY-Social-Media-Analysis/blob/main/Images/sad%20(1920%20x%202160%20px)%20(1).png)
 
 ## 👤 Author
 Aakashdeep Srivastava
