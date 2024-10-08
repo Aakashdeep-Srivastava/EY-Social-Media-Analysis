@@ -60,8 +60,11 @@ An analytics consultancy firm needed to optimize social media campaigns across m
 ## 🏆 Certificate of Completion
 ![Certificate](https://github.com/Aakashdeep-Srivastava/EY-Social-Media-Analysis/blob/main/Images/sad%20(1920%20x%202160%20px)%20(1).png)
 
-## 👤 Author
-Aakashdeep Srivastava
-
+## 📫 Contact
+For any questions or collaborations, feel free to reach out:
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aakashdeep%20Srivastava-blue)](https://www.linkedin.com/in/skydeep1/)
+- Email: aakashdeep0551@gmail.com
+---
+If this repository helped you, please give it a ⭐
 ---
 *This project was completed as part of the EY Battle of BrainPower BI Challenge 2024*
